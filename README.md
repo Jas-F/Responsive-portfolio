@@ -5,7 +5,7 @@ Develop a portfolio site using navbar, responsive, layout, responsive images. Mi
 <br>
 
 ===========
-![Image](mobileview.png)
+![Image](website.png)
 
 <br>
 
