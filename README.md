@@ -1,6 +1,6 @@
-# Responsive-portfolio
+# Responsive Portfolio
 
-Develop a portfolio site using navbar, responsive, layout, responsive images. Minimize the use of media queries. On an xs screen, content should take up the entire screen. On larger screens, left and right margin sides of the screen. Pass nu HTML checker. Add Navbar on each page. Contruct working links. Have valid HTML and properly use Bootstrap components and grid system.
+Build a portfolio to showcase programing skills.
 
 <br>
 
@@ -30,7 +30,7 @@ Develop a portfolio site using navbar, responsive, layout, responsive images. Mi
 ```
 <br>
 
-## Responsive layout
+## Responsive Layout
 
 ```
   <main class="container"> 
@@ -56,7 +56,7 @@ Develop a portfolio site using navbar, responsive, layout, responsive images. Mi
 ```
 <br>
 
-## Responsive images
+## Responsive Images
 
 ```
   <img src="professional.jpg" class="img-fluid" alt="professional"/>
