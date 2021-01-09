@@ -91,7 +91,7 @@ Google chrome
 Bootstrap
 ## Authors
 
-**Jasmine Franklin** 
+**Jasmine Franklin C:301-332-2313 E:jasminer.franklin@gmail.com** 
 
 - [Link to Portfolio Site](https://jas-f.github.io/responsive-portfolio/)
 - [Link to Github](https://github.com/)
